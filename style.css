@@ -806,7 +806,9 @@ body, .main-bg, .nav-item, .main-title, .register, .underline, .circle, .decorat
 .dark-theme .highlight,
 .dark-theme .faq-answer,
 .dark-theme .cloud-text.small,
-.dark-theme .title h1{
+.dark-theme .title h1,
+.dark-theme .news,
+.dark-theme .main{
     color: white;
 }
 .dark-theme .nav-item,
